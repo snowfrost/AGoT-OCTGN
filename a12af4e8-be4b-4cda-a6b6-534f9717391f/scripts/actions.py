@@ -11,6 +11,21 @@ PowerColor = "#1a4d8f" #A shade of blue from the Power Icon
 GameURL = "http://tinyurl.com/op4me9g"
 FAQ_URL = "http://www.fantasyflightgames.com/ffg_content/agotlcg/support/FAQ-TR-updates/AGoT-FAQ.pdf"
 LeagueURL = "http://tinyurl.com/aGoT-OCTGN-League-S1"
+
+#---------------------------------------------------------------------------
+# Event group actions
+#---------------------------------------------------------------------------
+def on_load_deck(player, groups): # {{{
+
+	# move house and agenda to table, shuffle deck
+	if player == me:
+		for card in me.hand:
+			if card.Type == "House Card": card.moveToTable(-700, 10, forceFaceDown = False)				
+			elif card.Type == "Agenda": card.moveToTable(-700, 100, forceFaceDown = False)
+				
+		shuffle(me.piles['Deck'])
+	# }}}
+
 #---------------------------------------------------------------------------
 # Table group actions
 #---------------------------------------------------------------------------

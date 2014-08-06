@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set name="03-Princes of the Sun" id="a12af4e8-be4b-4cda-a6b6-534f97009200" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
+
+<set name="03-Princes of the Sun"
+	 id="a12af4e8-be4b-4cda-a6b6-534f97009200"
+	 gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f"
+	 gameVersion="3.1.0"
+	 version="3.1">
+	 
 	<cards>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009208" name="The Red Viper">
 			<property name="House"          value="Martell."/>
@@ -1481,7 +1487,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009260" name="To the Spears!">
-			<property name="House"          value="Neutral."/>
+			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Characters you control do not kneel to attack this round."/>

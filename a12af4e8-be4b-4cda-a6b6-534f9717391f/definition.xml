@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<game name="A Game of Thrones LCG" id="a12af4e8-be4b-4cda-a6b6-534f9717391f" octgnVersion="3.1.0.0" version="3.2.1.0" scriptVersion="3.1.0.0" markersize="16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tags="OCTGN aGoT LCG" description="When you play a Game of Thrones you win or you die.&#10;&#10;A deadly medieval fantasy living card game based on the world renown A Game of Thrones novels by George R.R. Martin.  Ideal for 1-on-1 play, or grab a group and play the melee variant." setsurl="http://tinyurl.com/op4me9g" gameurl="http://tinyurl.com/l53qvl7" authors="TassLehoff, Hedjman, Gualdo" iconurl="http://store.fantasyflightgames.com/client/Products/ProdimageLg/GOT36.jpg">
+<game name="A Game of Thrones LCG"
+	  id="a12af4e8-be4b-4cda-a6b6-534f9717391f"
+	  octgnVersion="3.1.0.0"
+	  version="3.2.1.0"
+	  scriptVersion="3.1.0.0"
+	  markersize="16"
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  tags="OCTGN aGoT LCG"
+	  description="When you play a Game of Thrones you win or you die.&#10;&#10;A deadly medieval fantasy living card game based on the world renown A Game of Thrones novels by George R.R. Martin.  Ideal for 1-on-1 play, or grab a group and play the melee variant."
+	  setsurl="http://tinyurl.com/op4me9g"
+	  gameurl="http://tinyurl.com/l53qvl7"
+	  authors="TassLehoff, Hedjman, Gualdo"
+	  iconurl="http://store.fantasyflightgames.com/client/Products/ProdimageLg/GOT36.jpg">
 
 	<scripts>
 		<script src="scripts/actions.py"/>
@@ -10,16 +22,39 @@
 	</proxygen>	
 
     <documents>
-		<document name="AGoT Faq" icon="Documents/blank.png" src="Documents/Faq.html"/>
-		<document name="Keyboard Shortcuts" icon="Documents/blank.png" src="Documents/Shortcuts.html"/>
-		<document name="ChangeLog" icon="Documents/blank.png" src="Documents/ChangeLog.html"/>
+		<document name="AGoT Faq"
+				  icon="Documents/blank.png"
+				  src="Documents/Faq.html"/>
+				  
+		<document name="Keyboard Shortcuts"
+				  icon="Documents/blank.png"
+				  src="Documents/Shortcuts.html"/>
+				  
+		<document name="ChangeLog"
+				  icon="Documents/blank.png"
+				  src="Documents/ChangeLog.html"/>
 	</documents>
 	
 	<gameModes>
-		<gameMode name="Joust - Advanced Play" shortDescription="Use this matchmaking to find Joust advanced players." image="cards/advanced.jpg" playerCount="2" />
-		<gameMode name="Joust - Casual Play" shortDescription="Use this matchmaking to find Joust casual and newer players." image="cards/casual.jpg" playerCount="2" />
-		<gameMode name="Melee" shortDescription="Use this matchmaking to find Melee players." image="cards/melee.jpg" playerCount="4" />
+		<gameMode name="Joust - Advanced Play"
+				  shortDescription="Use this matchmaking to find Joust advanced players."
+				  image="cards/advanced.jpg"
+				  playerCount="2" />
+				  
+		<gameMode name="Joust - Casual Play"
+				  shortDescription="Use this matchmaking to find Joust casual and newer players."
+				  image="cards/casual.jpg"
+				  playerCount="2" />
+				  
+		<gameMode name="Melee"
+				  shortDescription="Use this matchmaking to find Melee players."
+				  image="cards/melee.jpg"
+				  playerCount="4" />
 	</gameModes>
+	
+	<events>
+		<event name="OnLoadDeck" action="on_load_deck" />
+	</events>
   
 	<card back="cards/back.png" front="cards/front.png" width="63" height="88">
 		<property name="House"          type="String"/>
