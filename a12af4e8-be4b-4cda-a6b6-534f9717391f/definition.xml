@@ -51,10 +51,6 @@
 				  image="cards/melee.jpg"
 				  playerCount="4" />
 	</gameModes>
-	
-	<events>
-		<event name="OnLoadDeck" action="on_load_deck" />
-	</events>
   
 	<card back="cards/back.png" front="cards/front.png" width="63" height="88">
 		<property name="House"          type="String"/>
