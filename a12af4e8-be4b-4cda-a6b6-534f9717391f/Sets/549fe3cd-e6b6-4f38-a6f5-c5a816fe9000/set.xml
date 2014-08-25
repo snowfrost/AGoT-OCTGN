@@ -2558,7 +2558,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9103" name="Raider from Orkwood">
-			<property name="House"          value="Greyjoy"/>
+			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Raider."/>
 			<property name="Text"           value="While Raider from Orkwood is participating in a challenge, characters with more than 1 icon do not count their STR."/>
