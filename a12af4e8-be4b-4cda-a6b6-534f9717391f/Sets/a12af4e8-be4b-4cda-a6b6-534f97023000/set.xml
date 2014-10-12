@@ -1303,7 +1303,7 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
-			<property name="Restricted"     value="Melee."/>
+			<property name="Restricted"     value="Joust. Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>

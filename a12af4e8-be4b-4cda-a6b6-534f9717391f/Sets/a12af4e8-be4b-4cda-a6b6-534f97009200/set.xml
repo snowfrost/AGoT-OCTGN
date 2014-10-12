@@ -1510,6 +1510,7 @@
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="60"/>
 			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
 	</cards>
 </set>

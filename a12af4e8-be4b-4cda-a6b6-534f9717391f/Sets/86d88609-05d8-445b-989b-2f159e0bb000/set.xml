@@ -210,7 +210,6 @@
 			<property name="PlotGoldIncome" value="4"/>
 			<property name="PlotInitiative" value="2"/>
 			<property name="PlotClaim"      value="1"/>
-			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="9"/>
 			<property name="Format"		    value="LCG"/>
@@ -2329,6 +2328,7 @@
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value="Joust. Melee."/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb100" name="Aurane Waters">
 			<property name="House"          value="Neutral."/>
@@ -2804,6 +2804,7 @@
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="118"/>
 			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value="Joust. Melee."/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb119" name="Supported by the Smith">
 			<property name="House"          value="Neutral."/>

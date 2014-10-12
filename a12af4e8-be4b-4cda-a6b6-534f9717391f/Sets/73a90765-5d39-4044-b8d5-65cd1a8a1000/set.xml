@@ -1182,6 +1182,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="47"/>
 			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1048" name="Palestone Sword Guard">
 			<property name="House"          value="Martell."/>
@@ -2985,6 +2986,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1120" name="Summoned by the Conclave">
 			<property name="House"          value="Neutral."/>

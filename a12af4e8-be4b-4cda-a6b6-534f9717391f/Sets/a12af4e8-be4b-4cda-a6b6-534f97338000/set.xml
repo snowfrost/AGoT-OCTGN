@@ -1212,7 +1212,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Iron Islands."/>
- 			<property name="Text"           value="Response: After you win an unnopposed challenge, kneel Nagga's Hill to choose a non-unique, non-event card in the losing player's discard pile.  Put that card into play under your control. At the end of the phase, discard that card if it is still in play."/>
+ 			<property name="Text"           value="Response: After you win an unopposed challenge, kneel Nagga's Hill to choose a non-unique, non-event card in the losing player's discard pile.  Put that card into play under your control. At the end of the phase, discard that card if it is still in play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>

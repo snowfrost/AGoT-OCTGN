@@ -629,7 +629,6 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
-			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="25"/>
 			<property name="Format"		    value="LCG"/>
@@ -681,7 +680,7 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value="Should read: &quot;...Take control of that character until the end of the phase.&quot;"/>
 			<property name="Enhancement"    value=""/>
-			<property name="Restricted"     value="Joust. Melee."/>
+			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="27"/>
 			<property name="Format"		    value="LCG"/>
@@ -759,7 +758,6 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
-			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="30"/>
 			<property name="Format"		    value="LCG"/>
