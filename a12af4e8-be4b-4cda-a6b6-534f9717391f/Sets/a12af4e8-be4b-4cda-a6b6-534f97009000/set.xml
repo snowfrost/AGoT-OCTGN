@@ -1207,6 +1207,7 @@
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97009064" name="Stalwart Shield">
  			<property name="House"          value="Targaryen."/>
