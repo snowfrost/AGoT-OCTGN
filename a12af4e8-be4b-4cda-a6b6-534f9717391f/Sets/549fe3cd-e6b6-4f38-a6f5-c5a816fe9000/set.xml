@@ -10,7 +10,7 @@
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9001" name="Conquest">
 			<property name="House" 			value="Neutral."/>
 			<property name="Type" 			value="Agenda"/>
-			<property name="Traits" 		value="Agenda."/>
+			<property name="Traits" 		value=""/>
 			<property name="Text" 			value="When you announce your agenda, name a House.  Ignore the out-of-House gold penalty when playing cards or placing setup cards with that affiliation.&#10;&#10;Your out-of-House character and attachment cards gain &quot;prized 1&quot; while leaving play.  Your out-of-House location cards with that affiliation gain &quot;prized 2&quot; while leaving play."/>
 			<property name="Keywords" 		value=""/>
 			<property name="Unique" 		value=""/>
@@ -35,7 +35,7 @@
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9002" name="Defiance">
 			<property name="House" 			value="Neutral."/>
 			<property name="Type" 			value="Agenda"/>
-			<property name="Traits" 		value="Agenda."/>
+			<property name="Traits" 		value=""/>
 			<property name="Text" 			value="Your plot deck must contain exactly 10 plot cards.&#10;&#10;Each of your plot cards gain &quot;prized 1&quot; while moving to your used pile."/>
 			<property name="Keywords" 		value=""/>
 			<property name="Unique" 		value=""/>
