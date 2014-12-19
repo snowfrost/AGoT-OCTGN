@@ -536,7 +536,7 @@
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338022" name="Dreadfort Outrider">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Knight. House Bolton."/>
+ 			<property name="Traits"         value="House Bolton."/>
  			<property name="Text"           value="If you control no other House Bolton characters, discard Draedfort Outrider from play."/>
  			<property name="Keywords"       value="Joust. Melee."/>
  			<property name="Unique"         value="No"/>
