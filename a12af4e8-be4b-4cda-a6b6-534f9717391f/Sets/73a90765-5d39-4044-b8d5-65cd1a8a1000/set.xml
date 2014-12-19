@@ -2965,7 +2965,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1119" name="Bloodthirst">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Agenda"/>
-			<property name="Traits"         value="Agenda."/>
+			<property name="Traits"         value=""/>
 			<property name="Text"           value="At the end of the challenge phase, the player who controls the fewest characters draws 2 cards."/>
 			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value=""/>
