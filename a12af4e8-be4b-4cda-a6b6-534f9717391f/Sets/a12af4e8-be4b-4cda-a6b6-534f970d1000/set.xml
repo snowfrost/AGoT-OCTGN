@@ -1333,7 +1333,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1060" name="Rise of the Kraken">
-			<property name="House"          value="Neutral."/>
+			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="You claim an additional power for winning unopposed challenges."/>
