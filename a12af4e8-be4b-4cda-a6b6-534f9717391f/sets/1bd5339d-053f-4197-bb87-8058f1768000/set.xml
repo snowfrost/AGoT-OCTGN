@@ -183,7 +183,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="1bd5339d-053f-4197-bb87-8058f1768008" name="Ser Kevan Lannister">
-			<property name="House"          value="Lannister"/>
+			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight."/>
 			<property name="Text"           value="Limited Response: After Ser Kevan Lannister enters or leaves play, choose a [Lannister] or neutral location in your discard pile and put it into play. (Limit 1 limited response per round.)"/>
