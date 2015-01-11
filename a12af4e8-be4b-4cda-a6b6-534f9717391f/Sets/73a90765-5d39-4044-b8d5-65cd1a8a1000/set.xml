@@ -1063,7 +1063,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. Lord."/>
 			<property name="Text"           value="Discard Greydon Goodbrother from play (cannot be saved) if you control fewer locations than any opponent."/>
-			<property name="Keywords"       value="Renown."/>
+			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="0"/>
 			<property name="Strength"       value="2"/>
