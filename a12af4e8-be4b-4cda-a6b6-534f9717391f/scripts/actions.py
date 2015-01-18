@@ -86,8 +86,7 @@ def turnDone(group, x = 0, y = 0):
 def restoreAll(group, x = 0, y = 0): 
 	mute()
 	myCards = (card for card in table
-				if card.controller == me
-				and card.owner == me)
+				if card.controller == me)
 	for card in myCards:
 		if card.isFaceUp:
 			card.orientation &= ~Rot90
@@ -104,7 +103,7 @@ def announceInt(group, x = 0, y = 0):
 
 def announcePow(group, x = 0, y = 0):
 	mute()
-	notify("**{} declares an PWR challenge.**".format(me))
+	notify("**{} declares a PWR challenge.**".format(me))
 
 def holdOn(group, x = 0, y = 0):
 	mute()
@@ -179,6 +178,7 @@ def flipcard(card, x = 0, y = 0):
     if card.isFaceUp:
         notify("{} turns {} face down.".format(me, card))
         card.isFaceUp = False
+        card.orientation & ~Rot90
     else:
         card.isFaceUp = True
         notify("{} turns {} face up.".format(me, card))
