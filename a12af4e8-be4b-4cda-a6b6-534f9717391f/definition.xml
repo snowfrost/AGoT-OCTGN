@@ -3,7 +3,7 @@
 <game name="A Game of Thrones LCG"
 	  id="a12af4e8-be4b-4cda-a6b6-534f9717391f"
 	  octgnVersion="3.1.0.0"
-	  version="3.2.3.1"
+	  version="3.2.3.2"
 	  scriptVersion="3.1.0.0"
 	  markersize="16"
 	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -153,7 +153,7 @@
 			<groupaction menu="Discard Many From Top" execute="discardManyFromTop"/>
 			<groupaction menu="Move Many to Hold" execute="moveToHold"/>
 		</group>
-		<group name="Plot Deck" visibility="none" width="63" height="88" icon="groups/plot.png">
+		<group name="Plot Deck" visibility="none" width="88" height="88" icon="groups/plot.png">
 			<groupaction menu="Draw Random" execute="drawRandom"/>
 		</group>
 		<group name="Dead Pile" visibility="all" width="63" height="88" icon="groups/dead.png">      
