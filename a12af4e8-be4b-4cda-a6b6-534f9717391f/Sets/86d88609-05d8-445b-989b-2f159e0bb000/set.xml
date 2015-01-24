@@ -191,7 +191,7 @@
 			<property name="CardNumber"	    value="8"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb009" name="Melisandre's Scheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb009" name="Melisandre's Scheme" size="HorizontalCards">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -422,7 +422,7 @@
 			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb019" name="Naval Reinforcements">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb019" name="Naval Reinforcements" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -445,7 +445,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb020" name="Crossing the Ruby Ford">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb020" name="Crossing the Ruby Ford" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="River."/>
@@ -790,7 +790,7 @@
 			<property name="CardNumber"	    value="34"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb035" name="Doran's Scheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb035" name="Doran's Scheme" size="HorizontalCards">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -859,7 +859,7 @@
 			<property name="CardNumber"	    value="37"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb038" name="Selmy's Scheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb038" name="Selmy's Scheme" size="HorizontalCards">
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -907,7 +907,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb040" name="Naval Superiority">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb040" name="Naval Superiority" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -976,7 +976,7 @@
 			<property name="CardNumber"	    value="42"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb043" name="Cersei's Scheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb043" name="Cersei's Scheme" size="HorizontalCards">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1045,7 +1045,7 @@
 			<property name="CardNumber"	    value="45"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb046" name="Victarion's Scheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb046" name="Victarion's Scheme" size="HorizontalCards">
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1321,7 +1321,7 @@
 			<property name="CardNumber"	    value="57"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb058" name="Torrhen's Square">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb058" name="Torrhen's Square" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle. City."/>
@@ -1344,7 +1344,7 @@
 			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb059" name="Negotiations at the Great Sept">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb059" name="Negotiations at the Great Sept" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Intrigue Gambit. City."/>
@@ -1831,7 +1831,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb080" name="King's Landing Coup">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb080" name="King's Landing Coup" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Power Struggle. City."/>
@@ -2029,7 +2029,7 @@
 			<property name="CardNumber"	    value="87"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb088" name="Manderly's Scheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb088" name="Manderly's Scheme" size="HorizontalCards">
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>

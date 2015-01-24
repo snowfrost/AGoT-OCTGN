@@ -483,7 +483,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024020" name="At the Gates">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024020" name="At the Gates" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -983,7 +983,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024040" name="Forging the Chain">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024040" name="Forging the Chain" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1486,7 +1486,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024060" name="Dry Season">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024060" name="Dry Season" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1987,7 +1987,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024080" name="Outwit">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024080" name="Outwit" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2487,7 +2487,7 @@
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024100" name="War of Attrition">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024100" name="War of Attrition" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2962,7 +2962,7 @@
 			<property name="CardNumber"	    value="118"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024119" name="Schemes of the Scholar">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024119" name="Schemes of the Scholar" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2987,7 +2987,7 @@
 			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024120" name="Search and Detain">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024120" name="Search and Detain" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>

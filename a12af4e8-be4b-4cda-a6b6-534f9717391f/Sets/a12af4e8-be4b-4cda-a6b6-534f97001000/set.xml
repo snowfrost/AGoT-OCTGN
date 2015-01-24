@@ -4308,7 +4308,7 @@
 			<property name="CardNumber"	    value="180"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001173" name="Summoning Season">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001173" name="Summoning Season" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4333,7 +4333,7 @@
 			<property name="CardNumber"	    value="181"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001174" name="Mutual Cause">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001174" name="Mutual Cause" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4358,7 +4358,7 @@
 			<property name="CardNumber"	    value="182"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001175" name="Uneasy Truce">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001175" name="Uneasy Truce" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4383,7 +4383,7 @@
 			<property name="CardNumber"	    value="183"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001176" name="Rains of Autumn">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001176" name="Rains of Autumn" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4408,7 +4408,7 @@
 			<property name="CardNumber"	    value="184"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001177" name="Good for the Gander">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001177" name="Good for the Gander" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4433,7 +4433,7 @@
 			<property name="CardNumber"	    value="185"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001178" name="Tourney for the Hand">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001178" name="Tourney for the Hand" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4458,7 +4458,7 @@
 			<property name="CardNumber"	    value="186"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001179" name="Fleeing to the Wall">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001179" name="Fleeing to the Wall" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Others."/>
@@ -4483,7 +4483,7 @@
 			<property name="CardNumber"	    value="187"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001180" name="Drunken Allegations">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001180" name="Drunken Allegations" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4508,7 +4508,7 @@
 			<property name="CardNumber"	    value="188"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001181" name="Mutual Blackmail">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001181" name="Mutual Blackmail" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4533,7 +4533,7 @@
 			<property name="CardNumber"	    value="189"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001182" name="Planning Ahead">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001182" name="Planning Ahead" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4558,7 +4558,7 @@
 			<property name="CardNumber"	    value="190"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001183" name="Wildfire Assault">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001183" name="Wildfire Assault" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4583,7 +4583,7 @@
 			<property name="CardNumber"	    value="191"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001184" name="Hear Me Roar">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001184" name="Hear Me Roar" size="HorizontalCards">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4608,7 +4608,7 @@
 			<property name="CardNumber"	    value="192"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001185" name="Blockade">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001185" name="Blockade" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4633,7 +4633,7 @@
 			<property name="CardNumber"	    value="193"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001186" name="The Power of Blood">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001186" name="The Power of Blood" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4658,7 +4658,7 @@
 			<property name="CardNumber"	    value="194"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001187" name="Building Season">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001187" name="Building Season" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4683,7 +4683,7 @@
 			<property name="CardNumber"	    value="195"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001188" name="Mutual Enemies">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001188" name="Mutual Enemies" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4708,7 +4708,7 @@
 			<property name="CardNumber"	    value="196"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001189" name="Holding the Trident">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001189" name="Holding the Trident" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4733,7 +4733,7 @@
 			<property name="CardNumber"	    value="197"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001190" name="Calm Over Westeros">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001190" name="Calm Over Westeros" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4758,7 +4758,7 @@
 			<property name="CardNumber"	    value="198"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001191" name="Snowed Under">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001191" name="Snowed Under" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4783,7 +4783,7 @@
 			<property name="CardNumber"	    value="199"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001192" name="The Power of Arms">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001192" name="The Power of Arms" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4808,7 +4808,7 @@
 			<property name="CardNumber"	    value="200"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001193" name="Valar Morghulis">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001193" name="Valar Morghulis" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4833,7 +4833,7 @@
 			<property name="CardNumber"	    value="201"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001194" name="Condemned by the Realm">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001194" name="Condemned by the Realm" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4858,7 +4858,7 @@
 			<property name="CardNumber"	    value="202"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001195" name="Counting Favors">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001195" name="Counting Favors" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4883,7 +4883,7 @@
 			<property name="CardNumber"	    value="203"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001196" name="Power and Wealth">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001196" name="Power and Wealth" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4908,7 +4908,7 @@
 			<property name="CardNumber"	    value="204"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001197" name="Mad King's Legacy">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001197" name="Mad King's Legacy" size="HorizontalCards">
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4933,7 +4933,7 @@
 			<property name="CardNumber"	    value="205"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001198" name="Rule by Decree">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001198" name="Rule by Decree" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4958,7 +4958,7 @@
 			<property name="CardNumber"	    value="206"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001199" name="Noose and Swordpoint">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001199" name="Noose and Swordpoint" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -4983,7 +4983,7 @@
 			<property name="CardNumber"	    value="207"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001200" name="Herding the Masses">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001200" name="Herding the Masses" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>

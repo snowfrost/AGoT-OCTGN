@@ -482,7 +482,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003020" name="A Song of Summer">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003020" name="A Song of Summer" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -982,7 +982,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003040" name="The Winds of Winter">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003040" name="The Winds of Winter" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1458,7 +1458,7 @@
 			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003059" name="A Time for Ravens">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003059" name="A Time for Ravens" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1483,7 +1483,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003060" name="Unconventional Warfare">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003060" name="Unconventional Warfare" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1958,7 +1958,7 @@
 			<property name="CardNumber"	    value="78"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003079" name="Desolate Passage">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003079" name="Desolate Passage" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1983,7 +1983,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003080" name="The Raven's Song">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003080" name="The Raven's Song" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Raven."/>
@@ -2485,7 +2485,7 @@
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003100" name="The Tides of War">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003100" name="The Tides of War" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>

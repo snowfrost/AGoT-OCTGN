@@ -483,7 +483,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1020" name="Rally Cry">
+		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1020" name="Rally Cry" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1485,7 +1485,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1060" name="On My Oath">
+		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1060" name="On My Oath" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1961,7 +1961,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="CardNumber"	    value="78"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1079" name="Betrayal at the Wall">
+		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1079" name="Betrayal at the Wall" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1986,7 +1986,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1080" name="Befouled River">
+		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1080" name="Befouled River" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="River."/>
@@ -2486,7 +2486,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1100" name="Redwyne Straits">
+		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1100" name="Redwyne Straits" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="River."/>
@@ -2988,7 +2988,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Format"		    value="LCG"/>
 			<property name="Restricted"     value="Joust."/>
 		</card>
-		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1120" name="Summoned by the Conclave">
+		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1120" name="Summoned by the Conclave" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>

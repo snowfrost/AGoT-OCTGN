@@ -483,7 +483,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338020" name="Into the Lists">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338020" name="Into the Lists" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -983,7 +983,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338040" name="The Grand Melee">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338040" name="The Grand Melee" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Military Battle."/>
@@ -1459,7 +1459,7 @@
 			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338059" name="The First Snow of Winter">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338059" name="The First Snow of Winter" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1484,7 +1484,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338060" name="Called to Court">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338060" name="Called to Court" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Intrigue Gambit."/>
@@ -1985,7 +1985,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338080" name="You Swore an Oath">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338080" name="You Swore an Oath" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2486,7 +2486,7 @@
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338100" name="I Fight to Win">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338100" name="I Fight to Win" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Power Struggle."/>
@@ -2961,7 +2961,7 @@
 			<property name="CardNumber"	    value="118"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338119" name="Twist of Fate">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338119" name="Twist of Fate" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2986,7 +2986,7 @@
 			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338120" name="Across the Summer Sea">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338120" name="Across the Summer Sea" size="HorizontalCards">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>

@@ -1207,7 +1207,7 @@
 			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008649" name="Burning Bridges">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008649" name="Burning Bridges" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Intrigue Gambit."/>
@@ -1232,7 +1232,7 @@
 			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008650" name="Waste Their Time">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008650" name="Waste Their Time" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Power Struggle."/>
@@ -1257,7 +1257,7 @@
 			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008651" name="Focused Offense">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008651" name="Focused Offense" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Military Battle."/>
@@ -1282,7 +1282,7 @@
 			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008652" name="Spending the Winter Stores">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008652" name="Spending the Winter Stores" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1307,7 +1307,7 @@
 			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008653" name="Loyalty Money Can Buy">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008653" name="Loyalty Money Can Buy" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1332,7 +1332,7 @@
 			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008654" name="Muster the Realm">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008654" name="Muster the Realm" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1357,7 +1357,7 @@
 			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008655" name="Threat from the East">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008655" name="Threat from the East" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>

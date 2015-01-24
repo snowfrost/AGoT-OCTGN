@@ -457,7 +457,7 @@
 			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004019" name="City of Lies">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004019" name="City of Lies" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -983,7 +983,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004040" name="City of Sin">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004040" name="City of Sin" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -1483,7 +1483,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004060" name="City of Secrets">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004060" name="City of Secrets" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -1984,7 +1984,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004080" name="City of Spiders">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004080" name="City of Spiders" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -2484,7 +2484,7 @@
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004100" name="City of Spies">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004100" name="City of Spies" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -2986,7 +2986,7 @@
 			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004120" name="City of Soldiers">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97004120" name="City of Soldiers" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>

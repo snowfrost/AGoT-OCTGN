@@ -1207,7 +1207,7 @@
 			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008230" name="Marched to the Wall">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008230" name="Marched to the Wall" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1232,7 +1232,7 @@
 			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008218" name="Fortified Position">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008218" name="Fortified Position" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1257,7 +1257,7 @@
 			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008203" name="Calm Before the Storm">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008203" name="Calm Before the Storm" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1282,7 +1282,7 @@
 			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008246" name="Take Them by Surprise">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008246" name="Take Them by Surprise" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1307,7 +1307,7 @@
 			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008243" name="Storm of Swords">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008243" name="Storm of Swords" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1332,7 +1332,7 @@
 			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008216" name="Family, Duty, Honor">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008216" name="Family, Duty, Honor" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1357,7 +1357,7 @@
 			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008252" name="Respect of the Old Gods">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008252" name="Respect of the Old Gods" size="HorizontalCards">
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>

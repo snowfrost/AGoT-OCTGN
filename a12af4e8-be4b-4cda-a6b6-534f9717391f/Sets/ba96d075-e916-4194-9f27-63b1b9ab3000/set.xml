@@ -432,7 +432,7 @@
 			<property name="CardNumber"	    value="17"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3018" name="Above the Sorrows">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3018" name="Above the Sorrows" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -457,7 +457,7 @@
 			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3019" name="Shores of Ny Sar">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3019" name="Shores of Ny Sar" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -482,7 +482,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3020" name="At the Palace of Sorrows">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3020" name="At the Palace of Sorrows" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -907,7 +907,7 @@
 			<property name="CardNumber"	    value="36"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3037" name="Pulled from the Rhoyne">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3037" name="Pulled from the Rhoyne" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -932,7 +932,7 @@
 			<property name="CardNumber"	    value="37"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3038" name="Under the Bridge of Dream">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3038" name="Under the Bridge of Dream" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -957,7 +957,7 @@
 			<property name="CardNumber"	    value="38"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3039" name="On Dagger Lake">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3039" name="On Dagger Lake" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -982,7 +982,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3040" name="Before the Black Walls">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3040" name="Before the Black Walls" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="River."/>
@@ -1458,7 +1458,7 @@
 			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3059" name="A City Besieged">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3059" name="A City Besieged" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -1483,7 +1483,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3060" name="Manning the City Walls">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3060" name="Manning the City Walls" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
@@ -1960,7 +1960,7 @@
 			<property name="CardNumber"	    value="78"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3079" name="Men of Honor">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3079" name="Men of Honor" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1985,7 +1985,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3080" name="Men of Duty">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3080" name="Men of Duty" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2461,7 +2461,7 @@
 			<property name="CardNumber"	    value="98"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3099" name="Men of Pride">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3099" name="Men of Pride" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2486,7 +2486,7 @@
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3100" name="The Pale Mare">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3100" name="The Pale Mare" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2986,7 +2986,7 @@
 			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3120" name="Lead by Example">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3120" name="Lead by Example" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>

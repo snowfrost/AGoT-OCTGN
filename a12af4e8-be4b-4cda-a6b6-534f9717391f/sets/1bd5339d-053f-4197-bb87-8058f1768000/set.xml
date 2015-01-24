@@ -457,7 +457,7 @@
 			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="1bd5339d-053f-4197-bb87-8058f1768019" name="Siege Preparations">
+		<card id="1bd5339d-053f-4197-bb87-8058f1768019" name="Siege Preparations" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle. Intrigue Gambit. Power Struggle."/>
@@ -482,7 +482,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="1bd5339d-053f-4197-bb87-8058f1768020" name="Naming the Heir">
+		<card id="1bd5339d-053f-4197-bb87-8058f1768020" name="Naming the Heir" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Castle."/>

@@ -1182,7 +1182,7 @@
 			<property name="CardNumber"	    value="47"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1054" name="After the Mummer's Ford">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1054" name="After the Mummer's Ford" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle."/>
@@ -1207,7 +1207,7 @@
 			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1055" name="Siege of Riverrun">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1055" name="Siege of Riverrun" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle."/>
@@ -1232,7 +1232,7 @@
 			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1056" name="The Breaking of Oaths">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1056" name="The Breaking of Oaths" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Intrigue Gambit."/>
@@ -1257,7 +1257,7 @@
 			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1057" name="The Promise of Victory">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1057" name="The Promise of Victory" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Intrigue Gambit."/>
@@ -1282,7 +1282,7 @@
 			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1058" name="Stay of Execution">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1058" name="Stay of Execution" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Power Struggle."/>
@@ -1307,7 +1307,7 @@
 			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1059" name="An Empty Throne">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1059" name="An Empty Throne" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Power Struggle."/>
@@ -1332,7 +1332,7 @@
 			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1060" name="Rise of the Kraken">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1060" name="Rise of the Kraken" size="HorizontalCards">
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>

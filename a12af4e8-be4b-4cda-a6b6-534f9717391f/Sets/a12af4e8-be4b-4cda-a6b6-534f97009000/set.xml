@@ -482,7 +482,7 @@
 			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009119" name="Winter Festival">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009119" name="Winter Festival" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -982,7 +982,7 @@
 			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009115" name="Fear of Winter">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009115" name="Fear of Winter" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1485,7 +1485,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009114" name="At the Wall">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009114" name="At the Wall" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -1985,7 +1985,7 @@
 			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009118" name="Valar Dohaeris">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009118" name="Valar Dohaeris" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2485,7 +2485,7 @@
 			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009117" name="The Songs of Bael the Bard">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009117" name="The Songs of Bael the Bard" size="HorizontalCards">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
@@ -2987,7 +2987,7 @@
 			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009116" name="The Minstrel's Muse">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009116" name="The Minstrel's Muse" size="HorizontalCards">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>

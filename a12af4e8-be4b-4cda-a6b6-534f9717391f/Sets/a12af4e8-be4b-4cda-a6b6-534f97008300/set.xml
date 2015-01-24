@@ -1209,7 +1209,7 @@
 			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008349" name="The King's Law">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008349" name="The King's Law" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1234,7 +1234,7 @@
 			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008350" name="Forgotten Plans">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008350" name="Forgotten Plans" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Intrigue Gambit."/>
@@ -1259,7 +1259,7 @@
 			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008351" name="The Power of Faith">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008351" name="The Power of Faith" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1284,7 +1284,7 @@
 			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008352" name="Assault on King's Landing">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008352" name="Assault on King's Landing" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle."/>
@@ -1309,7 +1309,7 @@
 			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008353" name="Regroup">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008353" name="Regroup" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1334,7 +1334,7 @@
 			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008354" name="Feast or Famine">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008354" name="Feast or Famine" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1359,7 +1359,7 @@
 			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97008355" name="Lineage and Legacy">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97008355" name="Lineage and Legacy" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Power Struggle."/>

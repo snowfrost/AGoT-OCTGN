@@ -1336,7 +1336,7 @@
 			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009254" name="Battle of Oxcross">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009254" name="Battle of Oxcross" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle."/>
@@ -1361,7 +1361,7 @@
 			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009255" name="Let My Porridge Fly">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009255" name="Let My Porridge Fly" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Intrigue Gambit."/>
@@ -1386,7 +1386,7 @@
 			<property name="CardNumber"	    value="55"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009256" name="Threat from the North">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009256" name="Threat from the North" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1411,7 +1411,7 @@
 			<property name="CardNumber"	    value="56"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009257" name="The Red Wedding">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009257" name="The Red Wedding" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Power Struggle."/>
@@ -1436,7 +1436,7 @@
 			<property name="CardNumber"	    value="57"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009258" name="Attack from the Sea">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009258" name="Attack from the Sea" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1461,7 +1461,7 @@
 			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009259" name="Alliance">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009259" name="Alliance" size="HorizontalCards">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
@@ -1486,7 +1486,7 @@
 			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009260" name="To the Spears!">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009260" name="To the Spears!" size="HorizontalCards">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
