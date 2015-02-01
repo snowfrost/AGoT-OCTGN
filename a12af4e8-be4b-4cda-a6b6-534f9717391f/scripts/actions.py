@@ -178,7 +178,7 @@ def flipcard(card, x = 0, y = 0):
     if card.isFaceUp:
         notify("{} turns {} face down.".format(me, card))
         card.isFaceUp = False
-        card.orientation & ~Rot90
+        card.orientation &= ~Rot90
     else:
         card.isFaceUp = True
         notify("{} turns {} face up.".format(me, card))
