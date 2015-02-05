@@ -2837,7 +2837,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Tactic."/>
-			<property name="Text"           value="Response: After you win a [Military] or [Power] challenge as the attacker, cancel the claim effect of that challenge. Then, move up to 3 power from the losing opponent’s House card to your House card. (Limit 1 per phase.)"/>
+			<property name="Text"           value="Response: After you win a [Military] or [Intrigue] challenge as the attacker, cancel the claim effect of that challenge. Then, move up to 3 power from the losing opponent’s House card to your House card. (Limit 1 per phase.)"/>
 			<property name="Keywords"       value="House Targaryen only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
